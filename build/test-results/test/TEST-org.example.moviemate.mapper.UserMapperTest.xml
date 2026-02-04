@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.moviemate.mapper.UserMapperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-20T11:18:01.679Z" hostname="WIN-T487CSD2H0J" time="0.006">
+  <properties/>
+  <testcase name="toUserDTO_ShouldMapTitlesCorrectly()" classname="org.example.moviemate.mapper.UserMapperTest" time="0.006"/>
+  <system-out><![CDATA[2026-01-20T15:18:01.673+04:00  INFO 15020 --- [moviemate] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [org.example.moviemate.mapper.UserMapperTest]: UserMapperTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-01-20T15:18:01.675+04:00  INFO 15020 --- [moviemate] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration org.example.moviemate.MoviemateApplication for test class org.example.moviemate.mapper.UserMapperTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

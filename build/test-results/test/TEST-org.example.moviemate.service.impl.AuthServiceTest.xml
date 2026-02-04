@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.moviemate.service.impl.AuthServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-20T11:18:01.715Z" hostname="WIN-T487CSD2H0J" time="0.487">
+  <properties/>
+  <testcase name="register_ShouldThrowException_WhenUsernameExists()" classname="org.example.moviemate.service.impl.AuthServiceTest" time="0.448"/>
+  <testcase name="register_ShouldReturnToken_WhenUserIsNew()" classname="org.example.moviemate.service.impl.AuthServiceTest" time="0.028"/>
+  <system-out><![CDATA[2026-01-20T15:18:02.129+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.AuthServiceImpl       : ActionLog.register.start - username: movcudUser
+2026-01-20T15:18:02.132+04:00  WARN 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.AuthServiceImpl       : ActionLog.register.fail - Username tutulub: movcudUser
+2026-01-20T15:18:02.198+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.AuthServiceImpl       : ActionLog.register.start - username: yeniUser
+2026-01-20T15:18:02.199+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.AuthServiceImpl       : ActionLog.register.success - username: yeniUser
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

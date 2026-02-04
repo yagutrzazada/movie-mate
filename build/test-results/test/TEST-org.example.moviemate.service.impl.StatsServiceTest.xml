@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.moviemate.service.impl.StatsServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-20T11:18:02.983Z" hostname="WIN-T487CSD2H0J" time="0.016">
+  <properties/>
+  <testcase name="getSystemStats_ShouldReturnAggregatedData()" classname="org.example.moviemate.service.impl.StatsServiceTest" time="0.007"/>
+  <testcase name="getUserStats_ShouldReturnCorrectStats()" classname="org.example.moviemate.service.impl.StatsServiceTest" time="0.009"/>
+  <system-out><![CDATA[2026-01-20T15:18:02.988+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.StatsServiceImpl      : ActionLog.getSystemStats.start
+2026-01-20T15:18:02.988+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.StatsServiceImpl      : ActionLog.getSystemStats.success
+2026-01-20T15:18:02.996+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.StatsServiceImpl      : ActionLog.getUserStats.start - userId: 1
+2026-01-20T15:18:02.996+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.StatsServiceImpl      : ActionLog.getUserStats.success - User stats generated
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

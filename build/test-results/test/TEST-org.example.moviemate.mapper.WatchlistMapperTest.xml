@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.moviemate.mapper.WatchlistMapperTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-20T11:18:01.692Z" hostname="WIN-T487CSD2H0J" time="0.013">
+  <properties/>
+  <testcase name="toWatchlistEntity_ShouldMapUserIdToUserObject()" classname="org.example.moviemate.mapper.WatchlistMapperTest" time="0.008"/>
+  <testcase name="toWatchlistDTO_ShouldMapUserIdAndMovieTitles()" classname="org.example.moviemate.mapper.WatchlistMapperTest" time="0.004"/>
+  <system-out><![CDATA[2026-01-20T15:18:01.688+04:00  INFO 15020 --- [moviemate] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [org.example.moviemate.mapper.WatchlistMapperTest]: WatchlistMapperTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-01-20T15:18:01.689+04:00  INFO 15020 --- [moviemate] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration org.example.moviemate.MoviemateApplication for test class org.example.moviemate.mapper.WatchlistMapperTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

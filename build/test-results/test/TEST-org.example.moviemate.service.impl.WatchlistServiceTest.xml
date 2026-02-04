@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.moviemate.service.impl.WatchlistServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-20T11:18:03.099Z" hostname="WIN-T487CSD2H0J" time="0.188">
+  <properties/>
+  <testcase name="addMovieToWatchlist_ShouldThrowException_WhenDuplicate()" classname="org.example.moviemate.service.impl.WatchlistServiceTest" time="0.188"/>
+  <system-out><![CDATA[2026-01-20T15:18:03.284+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.WatchlistServiceImpl  : ActionLog.addMovieToWatchlist - Final User ID: 1, Movie ID: 100
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

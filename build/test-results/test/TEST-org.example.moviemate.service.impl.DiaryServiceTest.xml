@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.moviemate.service.impl.DiaryServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-20T11:18:02.209Z" hostname="WIN-T487CSD2H0J" time="0.294">
+  <properties/>
+  <testcase name="logMovie_ShouldCreateNewDiary_WhenNotExist()" classname="org.example.moviemate.service.impl.DiaryServiceTest" time="0.294"/>
+  <system-out><![CDATA[2026-01-20T15:18:02.494+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.DiaryServiceImpl      : ActionLog.logMovie.start - userId: 1, movieId: 5
+2026-01-20T15:18:02.497+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.DiaryServiceImpl      : ActionLog.logMovie.success - Film istifadəçinin öz gündəliyinə əlavə edildi
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.moviemate.service.impl.UserServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-20T11:18:03.002Z" hostname="WIN-T487CSD2H0J" time="0.094">
+  <properties/>
+  <testcase name="updateUser_ShouldThrowException_WhenUsernameAlreadyExists()" classname="org.example.moviemate.service.impl.UserServiceTest" time="0.088"/>
+  <testcase name="getUserById_ShouldReturnUserDTO_WhenUserExists()" classname="org.example.moviemate.service.impl.UserServiceTest" time="0.005"/>
+  <system-out><![CDATA[2026-01-20T15:18:03.087+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.UserServiceImpl       : ActionLog.updateUser.start - id: 1
+2026-01-20T15:18:03.088+04:00  WARN 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.UserServiceImpl       : ActionLog.updateUser.fail - Username artıq istifadədədir: takenUser
+2026-01-20T15:18:03.093+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.UserServiceImpl       : ActionLog.getUserById.start - id: 1
+2026-01-20T15:18:03.095+04:00  INFO 15020 --- [moviemate] [    Test worker] o.e.m.service.impl.UserServiceImpl       : ActionLog.getUserById.success - id: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
