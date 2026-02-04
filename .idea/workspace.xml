@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd79c38-6ce7-437a-809b-8db0bd4fa759" name="Changes" comment="" />
+    <list default="true" id="dbd79c38-6ce7-437a-809b-8db0bd4fa759" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +68,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yagutrzazada"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yagutrzazada/movie-mate.git",
+    "accountId": "060b5760-1125-4501-b2a4-c0ef7c59ba60"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -62,50 +90,53 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.AuthControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.AuthServiceTest.register_ShouldReturnToken_WhenUserIsNew.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Build moviemate.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DiaryControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DiaryServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DiaryServiceTest.logMovie_ShouldCreateNewDiary_WhenNotExist.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.MovieControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.MovieServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ReviewServiceTest.deleteReview_ShouldSucceed_WhenUserIsAdmin.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ReviewServiceTest.deleteReview_ShouldThrowException_WhenUserIsNotOwnerOrAdmin.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ReviewServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StatsServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'moviemate.test'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'org.example.moviemate'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'org.example.moviemate.controller'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'org.example.moviemate.mapper'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.UserServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.WatchlistServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.moviemate [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.moviemate [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MoviemateApplication.executor&quot;: &quot;Run&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/moviemate&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.AuthControllerTest.executor": "Run",
+    "Gradle.AuthServiceTest.register_ShouldReturnToken_WhenUserIsNew.executor": "Run",
+    "Gradle.Build moviemate.executor": "Run",
+    "Gradle.DiaryControllerTest.executor": "Run",
+    "Gradle.DiaryServiceTest.executor": "Run",
+    "Gradle.DiaryServiceTest.logMovie_ShouldCreateNewDiary_WhenNotExist.executor": "Run",
+    "Gradle.MovieControllerTest.executor": "Run",
+    "Gradle.MovieServiceTest.executor": "Run",
+    "Gradle.ReviewServiceTest.deleteReview_ShouldSucceed_WhenUserIsAdmin.executor": "Run",
+    "Gradle.ReviewServiceTest.deleteReview_ShouldThrowException_WhenUserIsNotOwnerOrAdmin.executor": "Run",
+    "Gradle.ReviewServiceTest.executor": "Run",
+    "Gradle.StatsServiceTest.executor": "Run",
+    "Gradle.Tests in 'moviemate.test'.executor": "Run",
+    "Gradle.Tests in 'org.example.moviemate'.executor": "Run",
+    "Gradle.Tests in 'org.example.moviemate.controller'.executor": "Run",
+    "Gradle.Tests in 'org.example.moviemate.mapper'.executor": "Run",
+    "Gradle.UserServiceTest.executor": "Run",
+    "Gradle.WatchlistServiceTest.executor": "Run",
+    "Gradle.moviemate [build].executor": "Run",
+    "Gradle.moviemate [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MoviemateApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/moviemate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "mysql",
+      "sqlserver"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Documents\moviemate" />
@@ -289,7 +320,7 @@
       <workItem from="1769702684399" duration="1269000" />
       <workItem from="1769860929438" duration="1452000" />
       <workItem from="1770155251612" duration="1708000" />
-      <workItem from="1770212465588" duration="1531000" />
+      <workItem from="1770212465588" duration="4834000" />
     </task>
     <servers />
   </component>

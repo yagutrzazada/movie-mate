@@ -16,5 +16,21 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
+    <data-source name="YaqutDB@173.212.239.87" uuid="a5ab8a3f-bcaf-4a5f-99d5-1f0c947ea00c">
+      <database-info product="Microsoft SQL Server" version="13.00.5026" jdbc-version="4.3" driver-name="Microsoft JDBC Driver 13.2 for SQL Server" driver-version="13.2.1.0" dbms="MSSQL" exact-version="13.0.5026" exact-driver-version="13.2">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>matrix</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
   </component>
 </project>
